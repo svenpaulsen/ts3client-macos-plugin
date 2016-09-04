@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BD2FDDEAD0DF4BB09CC73A46712933B8E7F3FC0F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BD2FDDEAD0DF4BB09CC73A46712933B8E7F3FC0F" : 0,
+    "A6BDF227CCE3AD24366D8E1BDEA794D4E86BA98F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "074F4163-03A6-4F33-9F58-37232A19A2E7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BD2FDDEAD0DF4BB09CC73A46712933B8E7F3FC0F" : "ts3client-macos-plugin\/",
+    "A6BDF227CCE3AD24366D8E1BDEA794D4E86BA98F" : "ts3client-macos-plugin\/includes\/pluginsdk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ts3client-macos-plugin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ts3client-macos-plugin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/svenpaulsen\/ts3client-pluginsdk",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A6BDF227CCE3AD24366D8E1BDEA794D4E86BA98F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/svenpaulsen\/ts3client-macos-plugin",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BD2FDDEAD0DF4BB09CC73A46712933B8E7F3FC0F"
+    }
+  ]
+}

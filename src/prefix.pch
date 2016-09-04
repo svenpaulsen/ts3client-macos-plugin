@@ -1,0 +1,29 @@
+//
+// TeamSpeak 3 Client macOS Plugin
+//
+// Copyright (c) Sven Paulsen. All rights reserved.
+//
+
+#ifndef PREFIX_PCH
+#define PREFIX_PCH
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#import "public_rare_definitions.h"
+#import "ts3_functions.h"
+
+#import "app.h"
+#import "log.h"
+#import "menu.h"
+#import "plugin.h"
+#import "sdk.h"
+
+#define PLUGIN_API 21
+#define BUFFSIZE_L 512
+#define BUFFSIZE_M 256
+#define BUFFSIZE_S 128
+
+#endif
