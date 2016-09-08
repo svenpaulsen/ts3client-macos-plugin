@@ -209,8 +209,6 @@ static App* gInstance = nil;
  */
 - (void) applicationDidFinishLaunching:(NSNotification*)notification
 {
-    [Log debugFormat:@"App finished launching; plugin API version %d", PLUGIN_API];
-    
     [self setupMainWindow];
     
     [_del applicationDidFinishLaunching:notification];

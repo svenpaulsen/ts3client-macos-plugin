@@ -33,7 +33,7 @@ const char* ts3plugin_author()
  */
 const char* ts3plugin_description()
 {
-    return "Plugin to enhance the TeamSpeak 3 Client on macOS by using the Cocoa Framework";
+    return "Plugin to enhance or fix existing TeamSpeak 3 Client features on macOS by using Apple Frameworks.";
 }
 
 /**
