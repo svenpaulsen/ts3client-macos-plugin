@@ -58,7 +58,7 @@ int ts3plugin_init()
     
     [[App instance] hook];
     
-    [Log infoFormat:@"Plugin initialized; version %s built on %s %s", ts3plugin_version(), __DATE__, __TIME__];
+    [Log infoFormat:@"Plugin initialized; version %s (API %2) built on %s %s", ts3plugin_version(), PLUGIN_API, __DATE__, __TIME__];
     
     return 0;
 }
