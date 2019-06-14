@@ -1,3 +1,4 @@
+os: osx
 language: objective-c
-osx_image: xcode8
+osx_image: xcode10
 xcode_project: ts3client-macos-plugin.xcodeproj
